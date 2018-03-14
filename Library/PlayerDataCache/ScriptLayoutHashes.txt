@@ -2,6 +2,7 @@ Android
 SceneListBegin?
 Assets/VR scene.unity
 SceneListEnd?
+37596cee4c1e904ee9d2385938cee11e Assembly-CSharp.dll:.Decendify
 176f67aae4ec7273cfef37fd8876bd9a Assembly-CSharp.dll:.GvrDropdown
 047843e8fc8efc789ac0ebf61a6343c3 Assembly-CSharp.dll:GoogleVR.HelloVR.HeadsetDemoManager
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
@@ -205,4 +206,3 @@ e399fc54e753911801f12ac57c8fc414 Assembly-CSharp.dll:GoogleVR.HelloVR.HelloVRMan
 b2945430dfd6bbdb5d77043b47bf85e7 Assembly-CSharp.dll:.GvrControllerReticleVisual
 d885ad79a6ef5bfe2ce10637aac0b8a0 Assembly-CSharp.dll:GoogleVR.VideoDemo.AutoPlayVideo
 98563422dd13adb20fda7e6f7197765d Assembly-CSharp.dll:.SceneNameLoader
-37596cee4c1e904ee9d2385938cee11e Assembly-CSharp.dll:.Decendify
