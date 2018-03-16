@@ -415,6 +415,7 @@
     <Compile Include="Assets\Script\Script UI\UITimer.cs" />
     <Compile Include="Assets\Script\TimeInputHandler.cs" />
     <Compile Include="Assets\Script\TransformMovement.cs" />
+    <Compile Include="Assets\Script\VRYesPlease.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GoogleVR\Demos\Shaders\HelloVR\HelloVRUnlitGrayscaleToColor.shader" />

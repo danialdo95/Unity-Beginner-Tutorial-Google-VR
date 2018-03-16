@@ -1,6 +1,7 @@
 Android
 SceneListBegin?
-Assets/VR scene.unity
+Assets/Scene/UI.unity
+Assets/Scene/VR scene.unity
 SceneListEnd?
 37596cee4c1e904ee9d2385938cee11e Assembly-CSharp.dll:.Decendify
 176f67aae4ec7273cfef37fd8876bd9a Assembly-CSharp.dll:.GvrDropdown
@@ -162,6 +163,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 72903e4446a2f2d54923b10a70b2c5ba Assembly-CSharp.dll:Gvr.Internal.InstantPreview
 dd8dcc6e40821bd3d58848dd3c619d9d Assembly-CSharp.dll:.ObjectSpawner
 1c952386af3ef6bd3c90a34c4fd12f6b Assembly-CSharp.dll:GoogleVR.HelloVR.ObjectController
+888522d1cbcd7a967547d915c2b1bc16 Assembly-CSharp.dll:.AudioManager
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GvrControllerTooltipsSimple
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 96d0fbde9fd209878a0a291f82c9bcdd UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
@@ -206,3 +208,4 @@ e399fc54e753911801f12ac57c8fc414 Assembly-CSharp.dll:GoogleVR.HelloVR.HelloVRMan
 b2945430dfd6bbdb5d77043b47bf85e7 Assembly-CSharp.dll:.GvrControllerReticleVisual
 d885ad79a6ef5bfe2ce10637aac0b8a0 Assembly-CSharp.dll:GoogleVR.VideoDemo.AutoPlayVideo
 98563422dd13adb20fda7e6f7197765d Assembly-CSharp.dll:.SceneNameLoader
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.VRYesPlease
